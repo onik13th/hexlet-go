@@ -1,0 +1,6 @@
+*.log
+
+/compiled-files/
+
+/.idea/
+.idea/
